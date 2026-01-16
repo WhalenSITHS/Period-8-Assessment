@@ -23012,3 +23012,7 @@ let data = [
 //1 print each card where the series set is "Diamond & Pearl"
 
 //2 print each card name where the card type "includes" Water
+
+//3 Display each dcard with an average sale price over $50
+
+//4 Display the card with the highest HP
