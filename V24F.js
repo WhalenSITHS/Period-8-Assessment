@@ -11810,3 +11810,7 @@ let cards = [
 //1) while chaining array methods print each card that has a rarity value of "common"
 
 //2)while chainign array methods, print each card that includes "6ED" in it's printings
+
+//3) Display the AMOUNT of land cards in the array
+
+//4) Display the card with the highest number sets printed 
